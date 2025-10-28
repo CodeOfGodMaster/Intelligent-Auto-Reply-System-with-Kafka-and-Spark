@@ -11,7 +11,6 @@ It combines **Big Data streaming (Kafka + Spark)**, **Deep Learning (LSTM)**, an
 The system listens to live tweets, processes them in real time, classifies sentiment and complaint type, and replies automatically via a REST API — simulating a **real-time AI support agent**.
 
 <p align="center">
-  <img src="screenshots/support-ui-homepage.png" width="85%">
   <br><em>Figure 1: Web Interface of AI-Assisted Customer Support</em>
 </p>
 <img width="2047" height="651" alt="image" src="https://github.com/user-attachments/assets/c31781f3-cfbf-4a75-967a-d27e80f703c1" />
