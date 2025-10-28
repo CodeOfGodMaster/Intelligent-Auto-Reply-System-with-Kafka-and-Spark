@@ -120,34 +120,6 @@ Flask API ↔ Tweepy → Auto Tweet Reply → Amazon S3 Storage
 | **Latency** | 2.8 – 3.1 sec/tweet | ✅ Real-Time |
 | **Throughput** | ~1000 tweets/min | ✅ Scalable |
 
----
-
-### 🔸 Kafka Streaming Output  
-
-<p align="center">
-  <img src="screenshots/kafka-producer-consumer.png" alt="Kafka Producer and Consumer Output" width="90%">
-  <br><em>Figure 4: Kafka Producer-Consumer showing real-time tweet ingestion</em>
-</p>
-
----
-
-### 🔸 Flask API Processing  
-
-<p align="center">
-  <img src="screenshots/flask-api-log.png" alt="Flask API Server Logs" width="90%">
-  <br><em>Figure 5: Flask engine processing tweet requests and sending auto-replies</em>
-</p>
-
----
-
-### 🔸 Live Support Response Interface  
-
-<p align="center">
-  <img src="screenshots/web-interface-demo.png" alt="Support Interface" width="85%">
-  <br><em>Figure 6: Live demo interface showing detected complaints and auto-responses</em>
-</p>
-
----
 
 ## 🧩 Tech Stack  
 
