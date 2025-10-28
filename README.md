@@ -71,7 +71,6 @@ The system listens to live tweets, processes them in real time, classifies senti
 ## 🧠 Methodology  
 
 <p align="center">
-  <img src="screenshots/methodology-diagram.png" alt="Model Methodology" width="85%">
   <br><em>Figure 3: Methodology Flow – From Preprocessing to Auto-Response</em>
 </p>
 <img width="1490" height="1256" alt="image" src="https://github.com/user-attachments/assets/03caa9ab-3a21-4221-9f33-44f16e8ec1e5" />
