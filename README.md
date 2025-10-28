@@ -38,7 +38,6 @@ The system listens to live tweets, processes them in real time, classifies senti
 ## 🏗️ Architecture  
 
 <p align="center">
-  <img src="screenshots/architecture-diagram.png" alt="System Architecture" width="95%">
   <br><em>Figure 2: Overall System Architecture – Kafka + Spark + LSTM + Flask</em>
 </p>
 <img width="1202" height="714" alt="image" src="https://github.com/user-attachments/assets/65ae5322-0647-4b4b-bdd4-035302105953" />
